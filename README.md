@@ -1,6 +1,6 @@
 # React Storybook
 
-> Storybook is widely used in building live playgrounds and documenting component libraries, as you have the power to change props values, check loading states amongst other defined functionalities.
+> An example of how to use Storybook in React project, help build a Design System using React.
 
 ## Storybook
 

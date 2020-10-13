@@ -1,6 +1,15 @@
 {
   "name": "react-storybook",
-  "version": "0.1.0",
+  "description": "An example of how to use Storybook in React project, help build a Design System using React.",
+  "version": "1.0.0",
+  "author": "Luan Nguyen <design.luannguyen@gmail.com> (https://luannguyen.design)",
+  "contributors": [
+    {
+      "name": "Luan Nguyen",
+      "email": "design.luannguyen@gmail.com",
+      "url": "https://luannguyen.design"
+    }
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -44,5 +53,9 @@
     "@storybook/react": "^6.0.26",
     "babel-loader": "^8.1.0",
     "react-is": "^16.13.1"
-  }
+  },
+  "keywords": [
+    "react",
+    "storybook"
+  ]
 }
